@@ -42,9 +42,9 @@ https://chat.openai.com/api/auth/session
 
 - 您会获得类似如下一串json字符串`{"user":{"id":"AAA","name":"BBB","email":"CCC","image":"DDD","picture":"EEE","groups":[]},"expires":"FFF","accessToken":"XXX"}`
 - 其中的XXX即为`ChatGPT AccessToken`
-
-
 <br>
+
+
 ## ChatGPT 注册教程
 
 #### 代理的 IP 非常重要，这直接影响你能不能访问 ChatGPT
