@@ -161,8 +161,8 @@ copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).sp
 
 ## New Bing 注册教程
 
-[点击跳转 New Bing 注册教程](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md)
+[点击跳转 New Bing 注册教程](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New Bing/New Bing.md)
 
 ```
-https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New Bing/New Bing.md
 ```
