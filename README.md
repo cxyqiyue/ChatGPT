@@ -1,6 +1,6 @@
 # ChatGPT 以及 New Bing 相关分享
 
-#### 推荐使用 New Bing，因为 ChatGPT 没有好的代理 IP，是注册不上的
+#### 推荐使用 New Bing，因为代理的IP地址没有选好，是注册不上 ChatGPT 的
 
 <br>
 
@@ -18,7 +18,7 @@ https://cxyqiyue.github.io/Text5/html/GitHub.html
 
 #### 需挂代理才能访问，GitHub 上面能找到免费的
 
-虽然对 IP 要求高，但总有能访问 ChatGPT 的
+虽然对代理的IP地址要求高，但总有能访问 ChatGPT 的
 
 [点击跳转 ChatGPT 首页](https://chat.openai.com/)
 
@@ -51,10 +51,10 @@ https://chat.openai.com/api/auth/session
 
 请确认能够访问 ChatGPT 后，再进行购买虚拟号码（我买的印度尼西亚的号码）
 
-[点击跳转 ChatGPT 注册教程](https://sms-activate.org/en/info/ChatGPT)
+[点击跳转 ChatGPT 注册教程](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md)
 
 ```
-https://sms-activate.org/en/info/ChatGPT
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md
 ```
 
 
