@@ -7,13 +7,14 @@
 
 ## 下载 [Microsoft Edge Dev 预览版](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)
 
+[Microsoft Edge Dev 预览版](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)
 ```
 https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ
 ```
 
 微软Edge 浏览器需要下载安装 Microsoft Edge Dev 预览版才能体验 New Bing
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/1.gif">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/1.gif" style="height: 60%; width: 60%">
 <br>
 
 ## 清理 Edge 浏览器中 Cookie
@@ -22,7 +23,7 @@ https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ
 
 为了彻底清除cn.bing的缓存数据，时间范围建议选择"所有时间"，勾选“Cookie和其他站点数据”，点击“立即清除”。
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/2.gif">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/2.gif" style="height: 60%; width: 60%">
 <br>
 
 ## 申请步骤
@@ -42,45 +43,45 @@ https://www.microsoft.com/zh-cn/edge?form=MA13FJ
 
 ### 解决点击【加入候补名单】就直接跳转到 Bing 国内搜索主页
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/3.gif">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/3.gif" style="height: 60%; width: 60%">
 
 更改国家地区（可选美国），清除Cookie，再次尝试申请步骤
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/4.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/4.jpg" style="height: 60%; width: 60%">
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/5.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/5.jpg" style="height: 60%; width: 60%">
 <br>
 
 ## 申请成功后使用 New Bing
 
 通过【加入候补名单】来请求访问权限，清除等待列表后，将收到一封电子邮件，就可以在 Bing.com 访问New Bing了，然后可以在常用搜索框中开始键入内容。新必应也可在聊天体验中找到，位于搜索结果的顶部。
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/6.gif">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/6.gif" style="height: 60%; width: 60%">
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/7.gif">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/7.gif" style="height: 60%; width: 60%">
 <br>
 
 ### 解决打开 Edge 或 Dev 预览版就直接跳转到国内搜索主页，无聊天窗口
 
 更改国家地区（可选美国），清除Cookie
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/4.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/4.jpg" style="height: 60%; width: 60%">
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/5.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/5.jpg" style="height: 60%; width: 60%">
 
 访问 [New Bing](https://www.bing.com/new)
 ```
 https://www.bing.com/new
 ```
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/9.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/9.jpg" style="height: 60%; width: 60%">
 
 <br>
 
 ## 成果
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/8.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/8.jpg" style="height: 60%; width: 60%">
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/9.jpg">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/9.jpg" style="height: 60%; width: 60%">
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/10.JPG">
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/10.JPG" style="height: 60%; width: 60%">
