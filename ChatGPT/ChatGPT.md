@@ -43,7 +43,7 @@ https://beta.openai.com/signup
 
 这是您的选择，我们将使用电子邮件注册作为示例。（我自己使用的是谷歌邮箱）
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/4.png" style="height: 40p%;width: 40%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/4.png" style="height: 30p%;width: 30%"/>
 
 现在您需要打开您的电子邮件并点击信件中的链接以确认注册。
 
@@ -93,17 +93,17 @@ window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.starts
 https://sms-activate.org/en/info/ChatGPT
 ```
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/9.png" style="height: 40p%;width: 40%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/9.png" style="height: 20p%;width: 20%"/>
 
 点击“购物车”图标购买号码
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/10.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/10.png" style="height: 70p%;width: 70%"/>
 
 然后复制号码并粘贴到注册页面。单击“发送代码”按钮，就完成了。（粘贴时请把开头国家区号删掉）
 
 稍后您的确认码将出现在网站上。你应该复制并粘贴它。
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/11.png" style="height: 40p%;width: 40%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/11.png" style="height: 50p%;width: 50%"/>
 
 一切都很好，现在您需要选择如何使用 OpenAI。
 <br>
@@ -111,4 +111,4 @@ https://sms-activate.org/en/info/ChatGPT
 ## 使用 ChatGPT
 注册后，打开 [ChatGPT 网站](https://chat.openai.com/auth/login) 并使用您的用户名登录。
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 40p%;width: 40%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 50p%;width: 50%"/>
