@@ -20,7 +20,7 @@ https://sms-activate.org/en/info/ChatGPT
 ```
 https://sms-activate.org/en/info/ChatGPT
 ```
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/1.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/1.png" style="height: 40p%;width: 40%"/>
 
 接下来您需要充值您的余额
 
@@ -42,15 +42,15 @@ https://beta.openai.com/signup
 您可以使用您的 Google 帐户登录，也可以使用电子邮件注册。
 
 这是您的选择，我们将使用电子邮件注册作为示例。（我自己使用的是谷歌邮箱）
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/4.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/4.png" style="height: 40p%;width: 40%"/>
 
 现在您需要打开您的电子邮件并点击信件中的链接以确认注册。
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/5.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/5.png" style="height: 40p%;width: 40%"/>
 
 在这里您只需输入必要的信息。
 
 有些人在注册时可能会遇到困难，因为您所在的国家/地区可能无法注册。 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/6.png" style="height: 70p%;width: 70%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/6.png" style="height: 50p%;width: 50%"/>
 
 这是给你的提示。如果你遇到这个问题，那是因为你没有全局代理或者你的地理位置不对。
 
@@ -79,7 +79,7 @@ window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.starts
 <br>
 
 ## 输入电话号码
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/8.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/8.png" style="height: 40p%;width: 40%"/>
 
 这里因为代理选择了韩国的电话号码，但是最好选择印度的号码注册。 （我使用的印度尼西亚的号码）
 
@@ -87,19 +87,20 @@ window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.starts
 ```
 https://sms-activate.org/en/info/ChatGPT
 ```
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/9.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/9.png" style="height: 40p%;width: 40%"/>
 
 点击“购物车”图标购买号码
+
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/10.png" style="height: 60p%;width: 60%"/>
 
 然后复制号码并粘贴到注册页面。单击“发送代码”按钮，就完成了。（粘贴时请把开头国家区号删掉）
 
 稍后您的确认码将出现在网站上。你应该复制并粘贴它。
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/11.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/11.png" style="height: 40p%;width: 40%"/>
 
 一切都很好，现在您需要选择如何使用 OpenAI。
 <br>
 
 ## 使用 ChatGPT
 注册后，打开 [ChatGPT 网站](https://chat.openai.com/auth/login) 并使用您的用户名登录。
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 40p%;width: 40%"/>
