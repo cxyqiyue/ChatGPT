@@ -23,11 +23,13 @@ https://sms-activate.org/en/info/ChatGPT
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/1.png"/>
 
 接下来您需要充值您的余额
+
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/2.png"/>
 
 为了购买虚拟号码并接受 OpenAi 的确认码，您只需要 11 卢布，不到 0.2 美元。
 
 选择方便的充值方式，即可进行购买。 （我充值的时候，用的支付宝，起步2美元）
+
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/3.png"/>
 
 补货成功后就可以进行下一步了。
