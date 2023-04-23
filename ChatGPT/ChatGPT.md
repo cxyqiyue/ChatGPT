@@ -36,11 +36,15 @@ https://beta.openai.com/signup
 现在您需要打开您的电子邮件并点击信件中的链接以确认注册。
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/5.png"/>
 在这里您只需输入必要的信息。
+
 有些人在注册时可能会遇到困难，因为您所在的国家/地区可能无法注册。 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/6.png"/>
 这是给你的提示。如果你遇到这个问题，那是因为你没有全局代理或者你的地理位置不对。
+
 例如，香港或中国代理根本不起作用。
+
 这个问题非常具体。如果弹出这样的窗口，再切换代理也没用。
+
 我们将告诉您如何解决这个问题。
 
 #### 解决区域限制问题
