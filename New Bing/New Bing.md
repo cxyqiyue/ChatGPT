@@ -19,9 +19,13 @@ https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ
 
 ## 清理 Edge 浏览器中 Cookie
 
-清除Cookie方法：在Edge浏览器中点击浏览器右上角“...”点击”历史记录“，在弹出的历史记录菜单中点击右上角“...”选择"清除数据"；
+清除Cookie方法：在Edge浏览器中点击浏览器右上角`...`点击`历史记录`
 
-为了彻底清除cn.bing的缓存数据，时间范围建议选择"所有时间"，勾选“Cookie和其他站点数据”，点击“立即清除”。
+在弹出的历史记录菜单中点击右上角`...`选择`清除数据`；
+
+为了彻底清除cn.bing的缓存数据，时间范围建议选择`所有时间`
+
+勾选`Cookie和其他站点数据`，点击`立即清除`。
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/2.gif" style="height: 60%; width: 60%">
 <br>
@@ -54,7 +58,11 @@ https://www.microsoft.com/zh-cn/edge?form=MA13FJ
 
 ## 申请成功后使用 New Bing
 
-通过【加入候补名单】来请求访问权限，清除等待列表后，将收到一封电子邮件，就可以在 Bing.com 访问New Bing了，然后可以在常用搜索框中开始键入内容。新必应也可在聊天体验中找到，位于搜索结果的顶部。
+通过【加入候补名单】来请求访问权限，清除等待列表后，将收到一封电子邮件
+
+然后就可以在 Bing.com 访问New Bing了,在常用搜索框中开始键入内容。
+
+新必应也可在聊天体验中找到，位于搜索结果的顶部。
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/6.gif" style="height: 60%; width: 60%">
 
