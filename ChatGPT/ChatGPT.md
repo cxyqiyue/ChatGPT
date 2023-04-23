@@ -32,6 +32,7 @@ https://beta.openai.com/signup
 ```
 您可以使用您的 Google 帐户登录，也可以使用电子邮件注册。这是您的选择，我们将使用电子邮件注册作为示例。（我自己使用的是谷歌邮箱）
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/4.png"/>
+
 现在您需要打开您的电子邮件并点击信件中的链接以确认注册。
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/5.png"/>
 在这里您只需输入必要的信息。
