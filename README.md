@@ -159,5 +159,10 @@ copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).sp
 
 <br>
 
-## New Bing 申请与使用教程
+## New Bing 注册教程
 
+[点击跳转 New Bing 注册教程](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md)
+
+```
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md
+```
