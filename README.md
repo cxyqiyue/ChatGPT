@@ -1,6 +1,6 @@
 # ChatGPT 以及 New Bing 相关分享
 
-##### 推荐使用 New Bing，因为 ChatGPT 没有好的代理 IP，是注册不上的
+#### 推荐使用 New Bing，因为 ChatGPT 没有好的代理 IP，是注册不上的
 
 
 
@@ -16,7 +16,7 @@ https://cxyqiyue.github.io/Text5/html/GitHub.html
 
 ## ChatGPT 网址
 
-##### 需挂代理才能访问，GitHub 上面能找到免费的
+#### 需挂代理才能访问，GitHub 上面能找到免费的
 
 虽然对 IP 要求高，但总有能访问 ChatGPT 的
 
@@ -32,7 +32,7 @@ https://chat.openai.com/
 https://platform.openai.com/account/api-keys
 ```
 
-##### 需登录 ChatGPT 后才能获取 Access Token
+#### 需登录 ChatGPT 后才能获取 Access Token
 
 [登录 ChatGPT 后点击获取 Access Token](https://chat.openai.com/api/auth/session)
 
@@ -47,7 +47,7 @@ https://chat.openai.com/api/auth/session
 
 ## ChatGPT 注册教程
 
-##### 代理的 IP 非常重要，这直接影响你能不能访问 ChatGPT
+#### 代理的 IP 非常重要，这直接影响你能不能访问 ChatGPT
 
 请确认能够访问 ChatGPT 后，再进行购买虚拟号码（我买的印度尼西亚的号码）
 
@@ -61,7 +61,7 @@ https://sms-activate.org/en/info/ChatGPT
 
 ## ChatGPT镜像网站
 
-##### 请选择免代理免登陆免费使用的站点
+#### 请选择免代理免登陆免费使用的站点
 
 [点击跳转 ChatGPT 在线体验网站收集列表1](https://github.com/xx025/carrot)
 
@@ -91,7 +91,7 @@ https://github.com/LiLittleCat/awesome-free-chatgpt
 
 ## ChatGPT免费客户端
 
-##### 请及时关注版本更新，以免失效
+#### 请及时关注版本更新，以免失效
 
 [点击跳转 ChatGPT 免费桌面客户端1](https://github.com/xyhelper/xyhelper-desktop)（可点击页面右侧 Releases 进入下载页面，下载最新版）
 
@@ -135,7 +135,7 @@ https://github.com/uhub/awesome-chatgpt
 
 ## New Bing 网址
 
-##### 需挂代理才能访问，GitHub 上面能找到免费的
+#### 需挂代理才能访问，GitHub 上面能找到免费的
 
 [点击跳转 New Bing](https://www.bing.com/new)
 
@@ -143,7 +143,7 @@ https://github.com/uhub/awesome-chatgpt
 https://www.bing.com/new
 ```
 
-##### 必应获取 Token
+#### 必应获取 Token
 
 - 方法1、JS一键获取
 
