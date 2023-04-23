@@ -156,7 +156,7 @@ copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).sp
 - 方法 2、手动获取
 
 登录[New Bing](https://www.bing.com/new)，刷新一下网页，按F12或直接打开开发者模式，点击Application/存储，点击左侧Storage下的Cookies，展开找到 [https://www.bing.com](https://www.bing.com/) 项，在右侧列表Name项下找到"_U"，_U的value即为必应Token
-
+<br>
 
 
 ## New Bing 申请与使用教程
