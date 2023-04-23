@@ -20,7 +20,7 @@ https://sms-activate.org/en/info/ChatGPT
 ```
 https://sms-activate.org/en/info/ChatGPT
 ```
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/1.png"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/1.png" style="height: 60p%;width: 60%"/>
 
 接下来您需要充值您的余额
 
