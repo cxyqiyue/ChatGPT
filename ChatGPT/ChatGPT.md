@@ -1,5 +1,5 @@
 # ChatGPT 注册教程（参考[sms-activate.org](https://sms-activate.org/en/info/ChatGPT)）
-
+<br>
 
 ## 准备中
 * 代理要求：韩国、日本、印度、新加坡、美国，这些国家的地址都可以，但无论如何不要使用香港或中国的代理（我注册时使用的美国地址）
@@ -12,7 +12,7 @@ https://chat.openai.com/
 https://sms-activate.org/en/info/ChatGPT
 ```
 * 推荐使用谷歌浏览器
-
+<br>
 
 ## 开始吧
 #### 第一步是接受确认码
@@ -59,7 +59,7 @@ https://beta.openai.com/signup
 这个问题非常具体。如果弹出这样的窗口，再切换代理也没用。
 
 我们将告诉您如何解决这个问题。
-
+<br>
 
 ## 解决区域限制问题
 首先，需要选择合适区域的代理。比如，韩国。
@@ -76,7 +76,7 @@ window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.starts
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/7.png"/>
 
 然后按 Enter 并刷新页面。如果代理正常，您将看到注册页面以正常方式运行。
-
+<br>
 
 ## 输入电话号码
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/8.png"/>
@@ -98,7 +98,7 @@ https://sms-activate.org/en/info/ChatGPT
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/11.png"/>
 
 一切都很好，现在您需要选择如何使用 OpenAI。
-
+<br>
 
 ## 使用 ChatGPT
 注册后，打开 [ChatGPT 网站](https://chat.openai.com/auth/login) 并使用您的用户名登录。
