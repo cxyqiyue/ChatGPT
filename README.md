@@ -1,1 +1,163 @@
-# ChatGPT
+# ChatGPT 以及 New Bing 相关分享
+
+##### 推荐使用 New Bing，因为 ChatGPT 没有好的代理 IP，是注册不上的
+
+
+
+## GitHub搜索
+
+[点击跳转 GitHub 搜索](https://cxyqiyue.github.io/Text5/html/GitHub.html)
+
+```
+https://cxyqiyue.github.io/Text5/html/GitHub.html
+```
+
+
+
+## ChatGPT 网址
+
+##### 需挂代理才能访问，GitHub 上面能找到免费的
+
+虽然对 IP 要求高，但总有能访问 ChatGPT 的
+
+[ChatGPT 首页](https://chat.openai.com/)
+
+```
+https://chat.openai.com/
+```
+
+[点击跳转 ChatGPT 创建 API key 页面](https://platform.openai.com/account/api-keys)
+
+```
+https://platform.openai.com/account/api-keys
+```
+
+##### 需登录 ChatGPT 后才能获取 Access Token
+
+[登录 ChatGPT 后点击获取 Access Token](https://chat.openai.com/api/auth/session)
+
+```
+https://chat.openai.com/api/auth/session
+```
+
+- 您会获得类似如下一串json字符串`{"user":{"id":"AAA","name":"BBB","email":"CCC","image":"DDD","picture":"EEE","groups":[]},"expires":"FFF","accessToken":"XXX"}`
+- 其中的XXX即为`ChatGPT AccessToken`
+
+
+
+## ChatGPT 注册教程
+
+##### 代理的 IP 非常重要，这直接影响你能不能访问 ChatGPT
+
+请确认能够访问 ChatGPT 后，再进行购买虚拟号码（我买的印度尼西亚的号码）
+
+[点击跳转 ChatGPT 注册教程](https://sms-activate.org/en/info/ChatGPT)
+
+```
+https://sms-activate.org/en/info/ChatGPT
+```
+
+
+
+## ChatGPT镜像网站
+
+##### 请选择免代理免登陆免费使用的站点
+
+[点击跳转 ChatGPT 在线体验网站收集列表1](https://github.com/xx025/carrot)
+
+```
+https://github.com/xx025/carrot
+```
+
+[点击跳转 ChatGPT 在线体验网站收集列表2](https://github.com/LangLangShanDeNanKe/chatgpt)
+
+```
+https://github.com/LangLangShanDeNanKe/chatgpt
+```
+
+[点击跳转 ChatGPT 在线体验网站收集列表3](https://github.com/lzwme/chatgpt-sites)
+
+```
+https://github.com/lzwme/chatgpt-sites
+```
+
+[点击跳转 ChatGPT 在线体验网站收集列表4](https://github.com/LiLittleCat/awesome-free-chatgpt)
+
+```
+https://github.com/LiLittleCat/awesome-free-chatgpt
+```
+
+
+
+## ChatGPT免费客户端
+
+##### 请及时关注版本更新，以免失效
+
+[点击跳转 ChatGPT 免费桌面客户端1](https://github.com/xyhelper/xyhelper-desktop)（可点击页面右侧 Releases 进入下载页面，下载最新版）
+
+```
+https://github.com/xyhelper/xyhelper-desktop
+```
+
+[点击跳转 ChatGPT 免费桌面客户端2](https://github.com/akl7777777/free-chatgpt-client-pub)（可点击页面右侧 Releases 进入下载页面，下载最新版）
+
+```
+https://github.com/akl7777777/free-chatgpt-client-pub
+```
+
+[点击跳转 ChatGPT 免费手机客户端](https://github.com/akl7777777/free-chatgpt-client-mobile-pub)（可点击页面右侧 Releases 进入下载页面，下载最新版）
+
+```
+https://github.com/akl7777777/free-chatgpt-client-mobile-pub
+```
+
+
+
+## ChatGPT 账号分享
+
+[点击跳转 独角兽分享](https://freeopenai.xyz/)
+
+```
+https://freeopenai.xyz/
+```
+
+
+
+## 很棒的 ChatGPT 相关项目的精选列表
+
+[点击跳转 ChatGPT 相关项目的精选列表](https://github.com/uhub/awesome-chatgpt)
+
+```
+https://github.com/uhub/awesome-chatgpt
+```
+
+
+
+## New Bing 网址
+
+##### 需挂代理才能访问，GitHub 上面能找到免费的
+
+[点击跳转 New Bing](https://www.bing.com/new)
+
+```
+https://www.bing.com/new
+```
+
+##### 必应获取 Token
+
+- 方法1、JS一键获取
+
+登录[New Bing](https://www.bing.com/new)，刷新一下网页，按F12或直接打开开发者模式，点击Console/控制台，运行如下代码，执行后即在您的剪切板存储了必应Token
+
+```
+copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).split("=")[1]);
+```
+
+- 方法 2、手动获取
+
+登录[New Bing](https://www.bing.com/new)，刷新一下网页，按F12或直接打开开发者模式，点击Application/存储，点击左侧Storage下的Cookies，展开找到 [https://www.bing.com](https://www.bing.com/) 项，在右侧列表Name项下找到"_U"，_U的value即为必应Token
+
+
+
+## New Bing 申请与使用教程
+
