@@ -20,7 +20,7 @@ https://cxyqiyue.github.io/Text5/html/GitHub.html
 
 虽然对 IP 要求高，但总有能访问 ChatGPT 的
 
-[ChatGPT 首页](https://chat.openai.com/)
+[点击跳转 ChatGPT 首页](https://chat.openai.com/)
 
 ```
 https://chat.openai.com/
