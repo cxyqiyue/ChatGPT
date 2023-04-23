@@ -44,7 +44,7 @@ https://chat.openai.com/api/auth/session
 - 其中的XXX即为`ChatGPT AccessToken`
 
 
-
+<br>
 ## ChatGPT 注册教程
 
 #### 代理的 IP 非常重要，这直接影响你能不能访问 ChatGPT
@@ -123,7 +123,7 @@ https://freeopenai.xyz/
 
 
 
-## 很棒的 ChatGPT 相关项目的精选列表
+## ChatGPT 相关项目的精选列表
 
 [点击跳转 ChatGPT 相关项目的精选列表](https://github.com/uhub/awesome-chatgpt)
 
