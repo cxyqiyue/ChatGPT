@@ -111,4 +111,4 @@ https://sms-activate.org/en/info/ChatGPT
 ## 使用 ChatGPT
 注册后，打开 [ChatGPT 网站](https://chat.openai.com/auth/login) 并使用您的用户名登录。
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 70p%;width: 70%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/12.png" style="height: 60p%;width: 60%"/>
