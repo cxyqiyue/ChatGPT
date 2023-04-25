@@ -14,6 +14,14 @@ https://sms-activate.org/en/info/ChatGPT
 * 推荐使用谷歌浏览器
 <br>
 
+## ChromeGo
+如果没有代理可选，可以试试这个，Windows 上免费使用，本人亲测可以注册登录 ChatGPT
+[点击跳转 ChromeGo](https://github.com/bannedbook/fanqiang/tree/master/ChromeGo)
+```
+https://github.com/bannedbook/fanqiang/tree/master/ChromeGo
+```
+<br>
+
 ## 开始吧
 #### 第一步是接受确认码
 打开 [sms-activate.org](https://sms-activate.org/en/info/ChatGPT) 并注册一个帐户
