@@ -33,6 +33,7 @@ https://platform.openai.com/account/api-keys
 ```
 
 #### 需登录 ChatGPT 后才能获取 Access Token
+##### 请先安装`FeHelper(前端助手)`扩展程序，可以实现JSON自动格式化。
 
 [登录 ChatGPT 后点击获取 Access Token](https://chat.openai.com/api/auth/session)
 
@@ -40,7 +41,6 @@ https://platform.openai.com/account/api-keys
 https://chat.openai.com/api/auth/session
 ```
 
-- 可以安装`FeHelper(前端助手)`扩展程序，可以实现JSON自动格式化。
 - 您会获得类似如下一串json字符串`{"user":{"id":"AAA","name":"BBB","email":"CCC","image":"DDD","picture":"EEE","groups":[]},"expires":"FFF","accessToken":"XXX"}`
 - 其中的XXX即为`ChatGPT AccessToken`
 <br>
