@@ -15,7 +15,7 @@ https://sms-activate.org/en/info/ChatGPT
 <br>
 
 ## ChromeGo
-如果没有代理可选，可以试试这个，Windows 上免费使用，本人亲测可以注册登录 ChatGPT
+如果没有代理可选，可以试试这个，Windows 上免费使用，本人亲测可以访问 ChatGPT 并进行注册登录操作
 
 [点击跳转 ChromeGo](https://github.com/bannedbook/fanqiang/tree/master/ChromeGo)
 ```
