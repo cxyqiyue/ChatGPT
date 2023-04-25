@@ -42,7 +42,10 @@ https://chat.openai.com/api/auth/session
 
 - 您会获得类似如下一串json字符串`{"user":{"id":"AAA","name":"BBB","email":"CCC","image":"DDD","picture":"EEE","groups":[]},"expires":"FFF","accessToken":"XXX"}`
 - 其中的XXX即为`ChatGPT AccessToken`
+
+- 可以安装`FeHelper(前端助手)`扩展程序，可以实现JSON自动格式化、手动格式化，支持排序、解码、下载等，更多功能可在配置页按需安装！
 <br>
+
 
 
 ## ChatGPT 注册教程
