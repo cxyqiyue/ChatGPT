@@ -31,11 +31,11 @@ https://github.com/bannedbook/fanqiang/tree/master/ChromeGo
 * 更换代理节点
 * 重新打开 Chrome 浏览器
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%861.jpg" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%861.jpg" style="height: 80p%;width: 80%"/>
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%862.jpg" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%862.jpg" style="height: 80p%;width: 80%"/>
 
-<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%863.jpg" style="height: 60p%;width: 60%"/>
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%863.jpg" style="height: 80p%;width: 80%"/>
 <br>
 
 ## 开始吧
