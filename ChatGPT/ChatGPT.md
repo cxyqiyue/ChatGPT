@@ -23,6 +23,21 @@ https://github.com/bannedbook/fanqiang/tree/master/ChromeGo
 ```
 <br>
 
+## 更换节点
+
+* 点击 Chrome 浏览器右上角三个点
+* 设置——隐私和安全——清除浏览数据
+* 关闭 Chrome 浏览器
+* 更换代理节点
+* 重新打开 Chrome 浏览器
+
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%861.jpg" style="height: 40p%;width: 40%"/>
+
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%862.jpg" style="height: 40p%;width: 40%"/>
+
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/%E6%B8%85%E7%90%863.jpg" style="height: 40p%;width: 40%"/>
+<br>
+
 ## 开始吧
 #### 第一步是接受确认码
 打开 [sms-activate.org](https://sms-activate.org/en/info/ChatGPT) 并注册一个帐户
