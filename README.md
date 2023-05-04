@@ -191,7 +191,7 @@ https://github.com/haozi/new-bing-anywhere
 https://chrome.google.com/webstore/detail/new-bing-anywhere/hceobhjokpdbogjkplmfjeomkeckkngi
 ```
 
-[点击跳转 Crx搜搜](https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi)
+[点击跳转 Crx搜搜下载安装扩展](https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi)
 
 ```
 https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi
