@@ -168,3 +168,31 @@ copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).sp
 ```
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/New%20Bing.md
 ```
+
+<br>
+
+## Chrome 浏览器中使用 New Bing
+
+#### 注册成功后方能使用此方法
+
+* 第1个是项目地址，可以在此下载安装扩展（推荐）
+* 第2个是 Chrome 浏览器自带的扩展商店里直接安装（需要代理）
+* 第3个是Crx搜搜收录的 Chrome 扩展，可直接访问下载安装（无需代理，相比1更方便）
+
+[点击跳转 New-Bing-Anywhere](https://github.com/haozi/new-bing-anywhere)
+
+```
+https://github.com/haozi/new-bing-anywhere
+```
+
+[点击跳转 Chrome 应用商店安装扩展](https://chrome.google.com/webstore/detail/new-bing-anywhere/hceobhjokpdbogjkplmfjeomkeckkngi)
+
+```
+https://chrome.google.com/webstore/detail/new-bing-anywhere/hceobhjokpdbogjkplmfjeomkeckkngi
+```
+
+[点击跳转 Crx搜搜](https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi)
+
+```
+https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi
+```
