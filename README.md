@@ -201,7 +201,7 @@ https://www.crxsoso.com/webstore/detail/hceobhjokpdbogjkplmfjeomkeckkngi
 
 ## Slack 中使用 Claude
 
-* 无需梯子免费使用
+* 注册成功后无需梯子即可免费使用
 * 电脑和手机上有 Slack 的官方软件
 
 [点击跳转注册教程](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/Claude/Clauded.md)
