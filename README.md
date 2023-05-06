@@ -4,6 +4,15 @@
 
 <br>
 
+## 关联文章
+[点击跳转 gitee 文章](https://gitee.com/cxyqiyue/chat-gpt-and-new-bing)
+
+```
+https://gitee.com/cxyqiyue/chat-gpt-and-new-bing
+```
+
+<br>
+
 ## GitHub搜索
 
 [点击跳转 GitHub 搜索](https://cxyqiyue.github.io/Text5/html/GitHub.html)
