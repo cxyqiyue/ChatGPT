@@ -5,6 +5,16 @@
 
 <br>
 
+## 返回专题
+
+[点击返回专题](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md)
+
+```
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md
+```
+
+<br>
+
 ## 注册Slack
 
 [点击注册账号](https://slack.com/intl/zh-cn/)
