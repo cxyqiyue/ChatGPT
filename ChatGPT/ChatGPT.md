@@ -1,4 +1,15 @@
 # ChatGPT 注册教程（参考[sms-activate.org](https://sms-activate.org/en/info/ChatGPT)）
+
+<br>
+
+## 返回专题
+
+[点击返回专题](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/ChatGPT.md)
+
+```
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/ChatGPT.md
+```
+
 <br>
 
 ## 准备中
