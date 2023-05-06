@@ -259,7 +259,11 @@ https://poe.com/
 https://apps.apple.com/app/apple-store/id1640745955?pt=660924&mt=8
 ```
 
-目前Poe聚合了多款AI聊天机器人，有Sage、 ChatGPT、Claude+、Claude-instant、NeevaAI、Dragonfly，Sage和ChatGPT使用gpt-3.5-turbo模型，Dragonfly使用 text-davinci-003，无限制免费试用 。GPT-4和Claude+是付费功能。GPT-4每天可免费试用一次，Claude+每天可免费试用3次。
+目前Poe聚合了多款AI聊天机器人，有Sage、 ChatGPT、Claude+、Claude-instant、NeevaAI、Dragonfly
+
+Sage和ChatGPT使用gpt-3.5-turbo模型，Dragonfly使用 text-davinci-003，无限制免费试用 。
+
+GPT-4和Claude+是付费功能。GPT-4每天可免费试用一次，Claude+每天可免费试用3次。
 
 不同机器人有不同的特点:
 * Claude-instant 在许多创意写作任务上表现更好，往往会给出更长、更深入的答案。与Claude相比，Claude-instant更快，而且在非英语语言方面显著更出色。
