@@ -19,7 +19,9 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing
 * 虽然不需要候补了，但是依旧需要梯子
 
 1、梯子开全局模式，选美国节点
+
 2、打开Edge浏览器，或者安装了下面这个扩展后的Chrome浏览器，清除浏览记录
+
 3、直接访问[New Bing](https://www.bing.com/new)，点击左上角聊天即可
 
 <br>
