@@ -1,8 +1,21 @@
 # New Bing 注册教程
+
+<br>
+
+## 返回专题
+
+[点击返回专题](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md)
+
+```
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md
+```
+
 <br>
 
 ## 准备中
+
 * 需要一个代理
+
 <br>
 
 ## 下载 [Microsoft Edge Dev 预览版](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)
