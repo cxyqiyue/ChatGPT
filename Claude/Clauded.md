@@ -1,5 +1,6 @@
 # Claude 注册教程
 
+
 ## 注册Slack
 
 [点击注册账号](https://slack.com/intl/zh-cn/)
@@ -19,6 +20,7 @@ https://slack.com/intl/zh-cn/
 创建完成
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/Claude/3.jpg" style="height: 80p%;width: 80%"/>
+
 
 ## 启用Claude
 
