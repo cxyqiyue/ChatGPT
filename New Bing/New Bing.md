@@ -4,10 +4,10 @@
 
 ## 返回专题
 
-[点击返回专题](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md)
+[点击返回专题](https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/New%20Bing.md)
 
 ```
-https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md
+https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/New%20Bing.md
 ```
 
 <br>
