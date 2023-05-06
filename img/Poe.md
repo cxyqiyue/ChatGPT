@@ -15,7 +15,7 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing
 ## Poe 中使用 GPT
 
 * 需要梯子
-* 需用谷歌邮箱登录注册
+* 需用谷歌邮箱注册登录
 * 内置多个GPT
 * 暂时只有网页版和ios版，安卓版还未发行
 
