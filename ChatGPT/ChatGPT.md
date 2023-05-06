@@ -12,15 +12,7 @@ https://chat.openai.com/
 https://sms-activate.org/en/info/ChatGPT
 ```
 * 推荐使用谷歌浏览器
-<br>
 
-## ChromeGo
-如果没有代理可选，可以试试这个，Windows 上免费使用，本人亲测可以访问 ChatGPT 并进行注册登录操作
-
-[点击跳转 ChromeGo](https://github.com/bannedbook/fanqiang/tree/master/ChromeGo)
-```
-https://github.com/bannedbook/fanqiang/tree/master/ChromeGo
-```
 <br>
 
 ## 更换节点
