@@ -45,7 +45,7 @@ https://chat.openai.com/api/auth/session
 - 其中的XXX即为`ChatGPT AccessToken`
 <br>
 
-
+<br>
 
 ## ChatGPT 注册教程
 
@@ -59,7 +59,7 @@ https://chat.openai.com/api/auth/session
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/ChatGPT/ChatGPT.md
 ```
 
-
+<br>
 
 ## ChatGPT镜像网站
 
@@ -89,7 +89,7 @@ https://github.com/lzwme/chatgpt-sites
 https://github.com/LiLittleCat/awesome-free-chatgpt
 ```
 
-
+<br>
 
 ## ChatGPT免费客户端
 
@@ -113,7 +113,7 @@ https://github.com/akl7777777/free-chatgpt-client-pub
 https://github.com/akl7777777/free-chatgpt-client-mobile-pub
 ```
 
-
+<br>
 
 ## ChatGPT 账号分享
 
@@ -123,7 +123,7 @@ https://github.com/akl7777777/free-chatgpt-client-mobile-pub
 https://freeopenai.xyz/
 ```
 
-
+<br>
 
 ## ChatGPT 相关项目的精选列表
 
@@ -133,7 +133,7 @@ https://freeopenai.xyz/
 https://github.com/uhub/awesome-chatgpt
 ```
 
-
+<br>
 
 ## New Bing 网址
 
