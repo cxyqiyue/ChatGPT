@@ -20,9 +20,11 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing
 
 1、梯子开全局模式，选美国节点
 
-2、打开Edge浏览器，或者安装了下面这个扩展后的Chrome浏览器，清除浏览记录
+2、打开Edge浏览器，或者安装了下面这个扩展后的Chrome浏览器
 
-3、直接访问[New Bing](https://www.bing.com/new)，点击左上角聊天即可
+3、设置——隐私与安全——清除浏览记录——清除浏览记录和cookie
+
+4、直接访问[New Bing](https://www.bing.com/new)，点击左上角聊天即可
 
 <br>
 
