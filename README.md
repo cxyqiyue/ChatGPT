@@ -24,6 +24,8 @@ https://gitee.com/cxyqiyue/chat-gpt-and-new-bing
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/ChatGPT.md
 ```
 
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/ChatGPT.jpg" style="height: 80p%;width: 80%"/>
+
 <br>
 
 ## New Bing 专题
@@ -33,6 +35,8 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/ChatGPT.md
 ```
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/New%20Bing.md
 ```
+
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/New%20Bing.jpg" style="height: 80p%;width: 80%"/>
 
 <br>
 
@@ -44,6 +48,8 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/New%20Bing.md
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md
 ```
 
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.jpg" style="height: 80p%;width: 80%"/>
+
 <br>
 
 ## Poe 专题
@@ -53,5 +59,7 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Slack%20Claude.md
 ```
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Poe.md
 ```
+
+<img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Poe.jpg" style="height: 80p%;width: 80%"/>
 
 <br>
