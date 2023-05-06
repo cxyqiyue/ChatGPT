@@ -1,5 +1,5 @@
 # Claude 注册教程
-
+<br>
 
 ## 注册Slack
 
@@ -8,19 +8,19 @@
 ```
 https://slack.com/intl/zh-cn/
 ```
-
+<br>
 使用谷歌邮箱进行注册，输入邮箱接收验证码
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/Claude/1.jpg" style="height: 80p%;width: 80%"/>
-
+<br>
 注册成功后，创建工作区
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/Claude/2.jpg" style="height: 80p%;width: 80%"/>
-
+<br>
 创建完成
 
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/Claude/3.jpg" style="height: 80p%;width: 80%"/>
-
+<br>
 
 ## 启用Claude
 
