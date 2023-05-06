@@ -63,3 +63,14 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Poe.md
 <img src="https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/img/Poe.jpg" style="height: 80p%;width: 80%"/>
 
 <br>
+
+## ChromeGo
+
+* 只能在 Windows 上运行
+* 无需多言，懂的都懂
+
+[点击跳转 ChromeGo](https://github.com/bannedbook/fanqiang/tree/master/ChromeGo)
+
+```
+https://github.com/bannedbook/fanqiang/tree/master/ChromeGo
+```
