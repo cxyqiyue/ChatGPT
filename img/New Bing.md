@@ -1,4 +1,4 @@
-# ChatGPT 专题
+# New Bing 专题
 
 <br>
 
