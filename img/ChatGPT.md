@@ -127,6 +127,12 @@ https://github.com/pengzhile/pandora
 https://github.com/pengzhile/pandora-cloud-serverless
 ```
 
+[点击跳转 体验 Hello FakeGPT](https://chat.zhile.io)
+
+```
+https://chat.zhile.io
+```
+
 <br>
 
 ## ChatGPT 账号分享
