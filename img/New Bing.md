@@ -97,3 +97,9 @@ https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/New%20Bing
 ```
 https://github.com/adams549659584/go-proxy-bingai
 ```
+
+[点击跳转 体验 BingAI - 聊天](https://bing.vcanbb.top/web/index.html#/)
+
+```
+https://bing.vcanbb.top/web/index.html#/
+```
