@@ -87,3 +87,13 @@ copy(document.cookie.split(";").find(cookie=>cookie.trim().startsWith("_U=")).sp
 ```
 https://github.com/cxyqiyue/ChatGPT-and-New-Bing/blob/main/New%20Bing/New%20Bing.md
 ```
+
+<br>
+
+## 部署自己的必应直连网站
+
+[点击跳转 go-proxy-bing](https://github.com/adams549659584/go-proxy-bingai)
+
+```
+https://github.com/adams549659584/go-proxy-bingai
+```
