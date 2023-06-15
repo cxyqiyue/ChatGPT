@@ -113,12 +113,50 @@ https://github.com/akl7777777/free-chatgpt-client-mobile-pub
 
 <br>
 
+## 部署自己的 ChatGPT 直连网站
+
+[点击跳转 Pandora](https://github.com/pengzhile/pandora)
+
+```
+https://github.com/pengzhile/pandora
+```
+
+[点击跳转 Pandora-Cloud-Serverless](https://github.com/pengzhile/pandora-cloud-serverless)
+
+```
+https://github.com/pengzhile/pandora-cloud-serverless
+```
+
+<br>
+
 ## ChatGPT 账号分享
 
 [点击跳转 独角兽分享](https://freeopenai.xyz/)
 
 ```
 https://freeopenai.xyz/
+```
+
+[点击跳转 最新可用 ChatGPT 共享账号，低调用！](https://ctrl.cool/d/13804-chatgpt)
+
+```
+https://ctrl.cool/d/13804-chatgpt
+```
+
+[点击跳转 ChatGPT共享账号](https://docs.qq.com/sheet/DZWJQQk10a2xySGlh?tab=BB08J2)
+
+```
+https://docs.qq.com/sheet/DZWJQQk10a2xySGlh?tab=BB08J2
+```
+
+<br>
+
+## 快速获取 ChatGPT 的 Access Token
+
+[点击跳转 ChatGPT Auth](https://ai.fakeopen.com/auth)
+
+```
+https://ai.fakeopen.com/auth
 ```
 
 <br>
